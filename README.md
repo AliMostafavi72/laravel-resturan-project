@@ -49,7 +49,7 @@ php artisan key:generate
 php artisan migrate
 
 7.اجرای سرور محلی:
-php aritsan serve
+php aritsan serve --port=8001
 
 ***********************************
 پنل ادمین: به آدرس http://localhost:8000/admin بروید و با اطلاعات کاربری خود وارد شوید.
